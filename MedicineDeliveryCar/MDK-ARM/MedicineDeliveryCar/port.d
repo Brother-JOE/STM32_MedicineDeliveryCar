@@ -1,0 +1,12 @@
+medicinedeliverycar\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c
+medicinedeliverycar\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+medicinedeliverycar\port.o: E:\Application\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+medicinedeliverycar\port.o: E:\Application\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+medicinedeliverycar\port.o: ../Core/Inc/FreeRTOSConfig.h
+medicinedeliverycar\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+medicinedeliverycar\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+medicinedeliverycar\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+medicinedeliverycar\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+medicinedeliverycar\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+medicinedeliverycar\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+medicinedeliverycar\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

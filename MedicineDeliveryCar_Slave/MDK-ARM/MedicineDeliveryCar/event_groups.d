@@ -1,0 +1,15 @@
+medicinedeliverycar\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+medicinedeliverycar\event_groups.o: E:\Application\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+medicinedeliverycar\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+medicinedeliverycar\event_groups.o: E:\Application\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+medicinedeliverycar\event_groups.o: E:\Application\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+medicinedeliverycar\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+medicinedeliverycar\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+medicinedeliverycar\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+medicinedeliverycar\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+medicinedeliverycar\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+medicinedeliverycar\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+medicinedeliverycar\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+medicinedeliverycar\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+medicinedeliverycar\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+medicinedeliverycar\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h

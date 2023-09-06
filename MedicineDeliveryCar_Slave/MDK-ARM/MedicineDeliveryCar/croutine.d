@@ -1,0 +1,14 @@
+medicinedeliverycar\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+medicinedeliverycar\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+medicinedeliverycar\croutine.o: E:\Application\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+medicinedeliverycar\croutine.o: E:\Application\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+medicinedeliverycar\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+medicinedeliverycar\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+medicinedeliverycar\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+medicinedeliverycar\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+medicinedeliverycar\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+medicinedeliverycar\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+medicinedeliverycar\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+medicinedeliverycar\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+medicinedeliverycar\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+medicinedeliverycar\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
